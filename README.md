@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Dhawala
-- 👀 I’m interested in Full stack Web development PHP, Laravel and Jquery 
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate
-- 📫 https://www.facebook.com/dhawala.ranaweera/
+- 👀 I’m interested in Full stack Web development PHP
+- 📫 https://www.facebook.com/tharindra.don.7
 
 <!---
 Dhawala/Dhawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
